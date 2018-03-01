@@ -1,0 +1,8 @@
+{
+  "name": "data-unit-converter",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Akın Özgen <akinozgen17@outlook.com>",
+  "repository": "https://github.com/akinozgen/data-unit-converter.git"
+}
