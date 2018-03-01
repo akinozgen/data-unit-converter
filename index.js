@@ -11,7 +11,7 @@ module.exports = function (count, from, to) {
   switch (from) {
     case 'B':  bytes = count; break;
     case 'KB': bytes = count * 1024; break;
-    case 'MB': bytes = count * (1024 * 1024); console.log(count); break;
+    case 'MB': bytes = count * (1024 * 1024); break;
     case 'GB': bytes = count * (1024 * 1024 * 1024); break;
     case 'TB': bytes = count * (1024 * 1024 * 1024 * 1024); break;
     case 'b':  bytes = count / 8; break;

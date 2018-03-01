@@ -1,3 +1,3 @@
 const converter = require('./index');
 
-console.log(converter(1, 'Gb', 'b'));
+console.log(converter(1, 'B', 'b'));
