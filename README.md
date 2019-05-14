@@ -3,8 +3,8 @@
 ```javascript
 const converter = require('data-unit-converter');
 
-const mb_to_gb = converter(10, 'MB', 'GB');
-console.log(mb_to_gb);
+const gb_to_mb = converter(10, 'GB', 'MB');
+console.log(gb_to_mb);
 ```
 > "10240"
 
